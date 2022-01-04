@@ -1,15 +1,20 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-cloudcomputing-dev-164051-authRole",
-      "UnauthRoleArn": "arn:aws:iam::386525895121:role/amplify-cloudcomputing-dev-164051-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::386525895121:role/amplify-cloudcomputing-dev-164051-authRole",
+      "AuthRoleName": "amplify-redditclone-dev-185154-authRole",
+      "UnauthRoleArn": "arn:aws:iam::386525895121:role/amplify-redditclone-dev-185154-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::386525895121:role/amplify-redditclone-dev-185154-authRole",
       "Region": "eu-central-1",
-      "DeploymentBucketName": "amplify-cloudcomputing-dev-164051-deployment",
-      "UnauthRoleName": "amplify-cloudcomputing-dev-164051-unauthRole",
-      "StackName": "amplify-cloudcomputing-dev-164051",
-      "StackId": "arn:aws:cloudformation:eu-central-1:386525895121:stack/amplify-cloudcomputing-dev-164051/5fa78dc0-6be2-11ec-bd7a-02c6705ee94c",
-      "AmplifyAppId": "dqit2ti7fanl1"
+      "DeploymentBucketName": "amplify-redditclone-dev-185154-deployment",
+      "UnauthRoleName": "amplify-redditclone-dev-185154-unauthRole",
+      "StackName": "amplify-redditclone-dev-185154",
+      "StackId": "arn:aws:cloudformation:eu-central-1:386525895121:stack/amplify-redditclone-dev-185154/025e4db0-6d87-11ec-b396-06f78b2d87b2",
+      "AmplifyAppId": "dd255165mpfvi"
+    },
+    "categories": {
+      "auth": {
+        "redditclonec31bcfea": {}
+      }
     }
   }
 }
